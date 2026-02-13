@@ -1,10 +1,10 @@
 # Docker
 
-## 📚 Documentación de Docker
+## Documentación de Docker
 
 Este repositorio contiene documentación en español sobre el uso de **Docker** y **Docker Compose**, organizada en diferentes secciones.
 
-### 🚀 Docker Básico
+### Docker Básico
 - [01. Comando docker](./documentacion/01.%20comando%20docker.md)
 - [02. Información contenedores](./documentacion/02.%20informacion%20contenedores.md)
 - [03. Docker cp](./documentacion/03.%20docker%20cp.md)
@@ -25,7 +25,7 @@ Este repositorio contiene documentación en español sobre el uso de **Docker** 
 - [18. Docker context](./documentacion/18.%20docker%20context.md)
 - [26. Docker registry](./documentacion/26.%20docker%20registry.md)
 
-### ⚙️ Docker Compose
+### Docker Compose
 - [19. Docker compose](./documentacion/19.%20docker%20compose.md)
 - [20. Docker compose build](./documentacion/20.%20docker%20compose%20build.md)
 - [21. Docker Compose variables de entorno](./documentacion/21.%20docker%20compose%20variables%20de%20entorno.md)
